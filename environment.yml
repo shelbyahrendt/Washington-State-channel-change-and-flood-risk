@@ -1,0 +1,11 @@
+name: WA-channel-change-plots
+
+dependencies:
+  - python
+  - plotly
+  - bokeh
+  - geopandas
+  - pandas
+  - jupyterlab
+  - matplotlib
+  
