@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
+title: How do channels affect flood risk in western Washington State?
+subtitle: analyzing and understanding historic channel conveyance and streamflow changes
 github:
   is_project_page: false
