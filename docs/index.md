@@ -1,6 +1,6 @@
 # What is "channel-driven" flooding?
 
-<img src="https://i.imgur.com/FN0xYpt.png" alt="flood mechanisms" style="height: 200px; width:200px;"/>
+<img src="https://i.imgur.com/FN0xYpt.png" alt="flood mechanisms"/>
 
 # Channel Conveyance Change
 
