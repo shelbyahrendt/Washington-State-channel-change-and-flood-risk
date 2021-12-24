@@ -23,3 +23,5 @@ Hovering your mouse over a given datapoint, you can see the time series of chann
 This website accompanies the submitted manuscript: S. Ahrendt, A. Horner-Devine, B. Collins, J. Morgan,  E. Istanbulluoglu, N. Kumar, *Channel conveyance variability can influence flood risk as much as streamflow variability in western Washington State*
 
 Raw data is obtained from the USGS National Weather Information Service online server: https://waterdata.usgs.gov/nwis
+
+Interactive plot graphics were developed with the support of the Risk \& Resilience DAT/Artathon: https://datartathon.com
