@@ -22,12 +22,23 @@ Hovering your mouse over a given datapoint, you can see the time series of chann
 
 *Fig 2: Map of channel conveyance change through time at Western Washington study gages. Dots are sized by relative magnitude of changes*
 
+<iframe src="streamflow_change_map.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="800"
+    height="800"
+    scrolling="yes"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+*Fig 3: Map of streamflow change through time at Western Washington study gages. Dots are sized by relative magnitude of changes*
+
 # References
 
-This website accompanies the submitted manuscript: S. Ahrendt, A. Horner-Devine, B. Collins, J. Morgan,  E. Istanbulluoglu, N. Kumar, *Channel conveyance variability can influence flood risk as much as streamflow variability in western Washington State*
+This website accompanies the submitted manuscript: S. Ahrendt, A. Horner-Devine, B. Collins, J. Morgan,  E. Istanbulluoglu, *Channel conveyance variability can influence flood risk as much as streamflow variability in western Washington State*
 
 Raw data is obtained from the USGS National Weather Information Service online server: https://waterdata.usgs.gov/nwis
 
-Processed data to create the plots shown in Fig 2 is available in this website's base respository: https://github.com/shelbyahrendt/Washington-State-channel-change-and-flood-risk/tree/main/study_data
+Processed data to create the plots shown in Fig 2 and Fig 3 is available in this website's base respository: https://github.com/shelbyahrendt/Washington-State-channel-change-and-flood-risk/tree/main/study_data
 
 Interactive plot graphics were developed with the support of the Risk \& Resilience DAT/Artathon: https://datartathon.com
