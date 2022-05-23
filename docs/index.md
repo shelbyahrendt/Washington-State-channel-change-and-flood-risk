@@ -22,6 +22,12 @@ Hovering your mouse over a given datapoint, you can see the time series of chann
 
 *Fig 2: Map of channel conveyance change through time at Western Washington study gages. Dots are sized by relative magnitude of changes*
 
+# Analyzing Streamflow Change
+
+To assess the relative influence of 'channel' vs 'discharge' driven flooding, we compare the channel conveyance changes to streamflow changes at the same site. The figure below shows a change in streamflow at 'bankfull-return-period' or a change in streamflow right around the threshhold at which a channel will flood. These floods typically occur every 1-2 years for western Washington State.
+
+Hovering your mouse over a given datapoint, you can see the time series of streamflow change used to compute the dotsize representing magnitude of change. Changes are with respect to the bankfull conveyance capacity in 2015. Tendencies towards positive streamflow change values indicate that flows are generally becoming higher right around the channel's flood threshhold.
+
 <iframe src="streamflow_change_map.html"
     sandbox="allow-same-origin allow-scripts"
     width="800"
