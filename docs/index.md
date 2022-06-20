@@ -41,7 +41,7 @@ Hovering your mouse over a given datapoint, you can see the time series of strea
 
 # References
 
-This website accompanies the submitted manuscript: S. Ahrendt, A. Horner-Devine, B. Collins, J. Morgan,  E. Istanbulluoglu, *Channel conveyance variability can influence flood risk as much as streamflow variability in western Washington State*
+This website accompanies: S. Ahrendt, A. Horner-Devine, B. Collins, J. Morgan,  E. Istanbulluoglu, *Channel conveyance variability can influence flood risk as much as streamflow variability in western Washington State*, Water Resources Research, https://doi.org/10.1029/2021WR031890
 
 Raw data is obtained from the USGS National Weather Information Service online server: https://waterdata.usgs.gov/nwis
 
