@@ -47,4 +47,4 @@ Raw data is obtained from the USGS National Weather Information Service online s
 
 Processed data to create the plots shown in Fig 2 and Fig 3 is available in this website's base respository: https://github.com/shelbyahrendt/Washington-State-channel-change-and-flood-risk/tree/main/study_data
 
-Interactive plot graphics were developed with the support of the Risk \& Resilience DAT/Artathon: https://datartathon.com
+Interactive plot graphics were developed with the support of the Risk & Resilience DAT/Artathon: https://datartathon.com
